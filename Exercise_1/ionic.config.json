@@ -1,0 +1,7 @@
+{
+  "name": "Exercise_2_Service_Workers_Notifications",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
